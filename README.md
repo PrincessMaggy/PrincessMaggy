@@ -17,10 +17,10 @@
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-<!-- 
-![Github stats](https://github-readme-stats.vercel.app/api?username=princessmaggy&show_icons=true&count_private=true) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=princessmaggy&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=princessmaggy&show_icons=true&count_private=true) 
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=princessmaggy&show_icons=true) -->
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=princessmaggy&layout=compact)
 
