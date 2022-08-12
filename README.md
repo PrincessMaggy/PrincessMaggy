@@ -1,6 +1,6 @@
  👋  👋  👋 Hiiii, I’m Edozie Magdalene Princess!
 - ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🌱 I’m a front end developer and currently learning react. - [RESUME](https://drive.google.com/file/d/1zZRdevm2mJ7zToHxVoOj1k2rsVYyZ0jZ/view?usp=sharing)
+🌱 I’m a front end developer and currently learning react. - [RESUME](https://drive.google.com/file/d/153l72CTq_SFsLjggKE2QZV7sz4Vaow-P/view?usp=sharing)
 
 
 ### SOCIALS:
