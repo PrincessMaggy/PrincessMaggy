@@ -19,7 +19,7 @@
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NEXT](https://img.shields.io/badge/Next-F7DF1E?style=for-the-badge&logo=next&logoColor=black)
 
-<-- ![Github stats](https://github-readme-stats.vercel.app/api?username=princessmaggy&show_icons=true&count_private=true)  -->
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=princessmaggy&show_icons=true&count_private=true)  -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=princessmaggy&show_icons=true)
 
