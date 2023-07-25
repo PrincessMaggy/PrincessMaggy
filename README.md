@@ -23,7 +23,7 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=princessmaggy&show_icons=true) -->
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=princessmaggy&layout=compact)
+<!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=princessmaggy&layout=compact)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princessmaggy&hide_progress=true)
 
 
