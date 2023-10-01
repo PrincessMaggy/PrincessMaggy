@@ -1,6 +1,6 @@
  👋  👋  👋 Hiiii, I’m Edozie Magdalene Princess!
 - ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🌱 I’m a front end developer and currently learning next.js. - [RESUME](https://drive.google.com/file/d/1l3RDCXGHHuyTJe7gAWP_c8h-Juyuzh3J/view?usp=sharing)
+🌱 I’m a software developer.
 
 
 ### SOCIALS:
